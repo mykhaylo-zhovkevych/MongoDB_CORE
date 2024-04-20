@@ -1,5 +1,9 @@
+// lecture bout the basic commands in DB
+
+
 show dbs
 // show dbs can be used for the creating the database
+
 use nameofdatabse 
 // for switching between the databases 
 

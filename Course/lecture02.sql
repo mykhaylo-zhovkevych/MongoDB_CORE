@@ -1,3 +1,6 @@
+// the lecture about the manual insertion of Data
+
+
 lecture02> db.students.insertOne({name: "Userone", age:30, gpa:3.2})
 {
   acknowledged: true,

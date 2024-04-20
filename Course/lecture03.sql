@@ -1,4 +1,5 @@
-// about the data types in MongoDB
+// lecture about the data types in MongoDB
+
 
 
 test> db.lecture02.insertOne({
