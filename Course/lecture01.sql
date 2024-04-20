@@ -1,6 +1,10 @@
 // lecture bout the basic commands in DB
 
 
+
+// to clean the terminal 
+cls
+
 show dbs
 // show dbs can be used for the creating the database
 
