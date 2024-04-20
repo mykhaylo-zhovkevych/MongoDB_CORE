@@ -28,5 +28,3 @@ lecture02> db.students.insertMany([{name: "Usertwo", age:13, gpa: 1.2},{name: "U
 }
 // array for inserting multiple Data atributes 
 
-
-// 15:00 
